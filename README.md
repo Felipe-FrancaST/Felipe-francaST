@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conhecer mais sobre o meu trabalho, me siga nas redes socias ou entre em contato pelo Whatsapp!
  
 <div> 
   <a href="https://contate.me/felipe-franca" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-006400?style=for-the-badge&logo=whatsapp&logoColor=white%22" target="_blank"></a>
